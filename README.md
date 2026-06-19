@@ -16,7 +16,7 @@ A **3D interactive pendulum simulation** built using **GlowScript VPython**. Thi
 1. Open [**GlowScript.org**](https://www.glowscript.org/).
 2. Create a free account (optional, but recommended to save your code).
 3. Click **“New Program”** → choose **VPython**.
-4. Copy and paste the contents of `pendulum_simulation.py` (or your `.vpy` file) into the editor.
+4. Copy and paste the contents of `pendulum.py` (or your `.vpy` file) into the editor.
 5. Click **Run** – the simulation will appear in your browser.
 
 ## 🔹 User Inputs
